@@ -55,8 +55,8 @@ This project is focused on **digital image security**, providing tools typically
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mostofaahmed101/
-   cd abc
+   git clone https://github.com/mostofaahmed101/Image_Security_and_Analysis-ISA.git
+   cd Image_Security_and_Analysis-ISA
    ```
 2. **Install dependencies:**
 
