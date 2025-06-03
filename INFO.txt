@@ -1,0 +1,11 @@
+- Install the Requirements: pip install -r requirements.txt
+- and run the application: python main.py 
+
+
+
+======================================
+    Developed by 
+  Md. Mosotfa Mahin
+github: https://github.com/mostofaahmed101
+======================================
+
