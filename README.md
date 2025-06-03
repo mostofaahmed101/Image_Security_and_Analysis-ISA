@@ -2,7 +2,7 @@
 
 A powerful and interactive desktop application built with Python and CustomTkinter for encrypting, analyzing, and protecting images using modern security and steganography techniques. <br> <br>
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/python-3.12%2B-blue)
 ![Security](https://img.shields.io/badge/security-focused-critical)
 
 ---
